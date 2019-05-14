@@ -1,0 +1,3 @@
+String cesarCipher(String plaintext, int key);
+
+String XOREncryption(String plaintext, String encryptionKey);
